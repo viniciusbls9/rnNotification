@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "721826443517",
+    "firebase_url": "https://rnfnotification-33d33.firebaseio.com",
+    "project_id": "rnfnotification-33d33",
+    "storage_bucket": "rnfnotification-33d33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721826443517:android:85107541f731a166e74e94",
+        "android_client_info": {
+          "package_name": "com.rnnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721826443517-9ptrolckte3q7uscfmg23p746h4lo0up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXWJHbR_42-IS2Vrow1NPs45nLSzNdT8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721826443517-9ptrolckte3q7uscfmg23p746h4lo0up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
